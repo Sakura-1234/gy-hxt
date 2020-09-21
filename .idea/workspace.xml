@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e794862d-0ad6-47ea-829a-2e6dd1f59b89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +21,15 @@
     <session id="821293974">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,41 +47,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="py" value="4562" />
+          <entry key="gitignore" value="26" />
+          <entry key="py" value="4572" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4562" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="4572" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello_world.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="394" column="13" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="408" selection-start-line="408" selection-end-line="408" />
               <folding>
-                <marker date="1600656375682" expanded="true" signature="2766:2863" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="2886:2891" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="2982:2987" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="3475:3579" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="3855:3856" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="5246:5932" ph="..." />
-                <marker date="1600656375682" expanded="true" signature="5956:5963" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="2766:2863" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="2886:2891" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="2982:2987" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="3475:3579" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="3855:3856" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="5246:5932" ph="..." />
+                <marker date="1600674063480" expanded="true" signature="5956:5963" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -113,8 +120,8 @@
       <list>
         <option value="$PROJECT_DIR$/module.1.py" />
         <option value="$PROJECT_DIR$/module.2.py" />
-        <option value="$PROJECT_DIR$/hello_world.py" />
         <option value="$PROJECT_DIR$/venv/.gitignore" />
+        <option value="$PROJECT_DIR$/hello_world.py" />
       </list>
     </option>
   </component>
@@ -125,8 +132,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="800" />
-    <option name="y" value="225" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="770" />
     <option name="height" value="744" />
   </component>
@@ -136,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,25 +155,11 @@
               <item name="base_2008A" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="base_2008A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="base_2008A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (base_2008A) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="base_2008A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (base_2008A) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,9 +274,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22622108" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23843187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,17 +309,24 @@
     <entry file="file://$PROJECT_DIR$/module.1.py" />
     <entry file="file://$PROJECT_DIR$/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="394" column="13" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
           <folding>
-            <marker date="1600656375682" expanded="true" signature="2766:2863" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="2886:2891" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="2982:2987" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="3475:3579" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="3855:3856" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="5246:5932" ph="..." />
-            <marker date="1600656375682" expanded="true" signature="5956:5963" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="2766:2863" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="2886:2891" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="2982:2987" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="3475:3579" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="3855:3856" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="5246:5932" ph="..." />
+            <marker date="1600674063480" expanded="true" signature="5956:5963" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -338,9 +336,6 @@
           <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
