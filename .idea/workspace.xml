@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e794862d-0ad6-47ea-829a-2e6dd1f59b89" name="Default Changelist" comment="" />
+    <list default="true" id="e794862d-0ad6-47ea-829a-2e6dd1f59b89" name="Default Changelist" comment="123">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +19,15 @@
     <session id="821293974">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,14 +46,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="26" />
-          <entry key="py" value="4604" />
+          <entry key="py" value="4605" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="4604" />
+          <entry key="Python" value="4605" />
         </counts>
       </usages-collector>
     </session>
@@ -61,16 +63,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello_world.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="404" lean-forward="true" selection-start-line="404" selection-end-line="404" />
+            <state relative-caret-position="322">
+              <caret line="407" column="5" lean-forward="true" selection-start-line="407" selection-start-column="5" selection-end-line="407" selection-end-column="5" />
               <folding>
-                <marker date="1600675234129" expanded="true" signature="2766:2863" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="2886:2891" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="2982:2987" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="3475:3579" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="3855:3856" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="5246:5932" ph="..." />
-                <marker date="1600675234129" expanded="true" signature="5956:5963" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="2766:2863" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="2886:2891" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="2982:2987" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="3475:3579" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="3855:3856" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="5246:5932" ph="..." />
+                <marker date="1600675383576" expanded="true" signature="5956:5963" ph="..." />
               </folding>
             </state>
           </provider>
@@ -140,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,14 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600675240577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="123">
+      <created>1600675398603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600675398603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24164525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24485861" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,16 +335,16 @@
     <entry file="file://$PROJECT_DIR$/module.1.py" />
     <entry file="file://$PROJECT_DIR$/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="404" lean-forward="true" selection-start-line="404" selection-end-line="404" />
+        <state relative-caret-position="322">
+          <caret line="407" column="5" lean-forward="true" selection-start-line="407" selection-start-column="5" selection-end-line="407" selection-end-column="5" />
           <folding>
-            <marker date="1600675234129" expanded="true" signature="2766:2863" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="2886:2891" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="2982:2987" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="3475:3579" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="3855:3856" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="5246:5932" ph="..." />
-            <marker date="1600675234129" expanded="true" signature="5956:5963" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="2766:2863" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="2886:2891" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="2982:2987" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="3475:3579" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="3855:3856" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="5246:5932" ph="..." />
+            <marker date="1600675383576" expanded="true" signature="5956:5963" ph="..." />
           </folding>
         </state>
       </provider>
